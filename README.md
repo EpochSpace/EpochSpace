@@ -6,6 +6,7 @@ networks and computer vision to autonomous spacecraft docking, the same mix
 of ML and aerospace I work with today.
 
 Saint Petersburg, Russia · UTC+3
+
 **Portfolio:** [epochspace.github.io](https://epochspace.github.io)
 
 
