@@ -6,6 +6,8 @@ networks and computer vision to autonomous spacecraft docking, the same mix
 of ML and aerospace I work with today.
 
 Saint Petersburg, Russia · UTC+3
+**Portfolio:** [epochspace.github.io](https://epochspace.github.io)
+
 
 <p>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python — programming language"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python — programming language"></a>
