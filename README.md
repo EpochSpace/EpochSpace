@@ -1,4 +1,4 @@
-# Pavel Kotsko
+# Hi there 👋
 
 ML engineer in computer vision, working in Python and C++. I take models from the first experiment
 to a service that people rely on every day. My degree from BSTU VOENMEH is in spacecraft navigation
