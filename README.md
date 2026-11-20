@@ -1,13 +1,25 @@
 # Hi there 👋
 
-My name Pavel Kotsko and i'm ML engineer in computer vision, working in Python and C++. I take models from the first experiment
+My name is Pavel Kotsko, and I'm an ML engineer in computer vision, working in Python and C++. I take models from the first experiment
 to a service that people rely on every day. I hold a degree in spacecraft flight dynamics, and my thesis applied neural
 networks and computer vision to autonomous spacecraft docking, the same mix
 of ML and aerospace I work with today.
 
 Saint Petersburg, Russia · UTC+3
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,linux,cmake,flask,sqlite,git" alt="Python, C++, PyTorch, TensorFlow, OpenCV, Linux, CMake, Flask, SQLite, Git" />
+<p>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python — programming language"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python — programming language"></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++ — programming language"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++ — programming language"></a>
+  <a href="https://en.wikipedia.org/wiki/PyTorch" title="PyTorch — deep learning framework"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch — deep learning framework"></a>
+  <a href="https://en.wikipedia.org/wiki/TensorFlow" title="TensorFlow — machine learning framework"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow" title="TensorFlow — machine learning framework"></a>
+  <a href="https://en.wikipedia.org/wiki/OpenCV" title="OpenCV — Open Source Computer Vision Library"><img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV — Open Source Computer Vision Library"></a>
+  <a href="https://en.wikipedia.org/wiki/Linux" title="Linux — operating system"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux — operating system"></a>
+  <a href="https://en.wikipedia.org/wiki/CMake" title="CMake (Cross-platform Make) — build system"><img src="https://skillicons.dev/icons?i=cmake" width="48" alt="CMake" title="CMake (Cross-platform Make) — build system"></a>
+  <a href="https://en.wikipedia.org/wiki/Flask_(web_framework)" title="Flask — Python web framework"><img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask" title="Flask — Python web framework"></a>
+  <a href="https://en.wikipedia.org/wiki/SQLite" title="SQLite — embedded SQL database"><img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" title="SQLite — embedded SQL database"></a>
+  <a href="https://en.wikipedia.org/wiki/Git" title="Git — version control system"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git — version control system"></a>
+</p>
+
 
 ## What I work on
 
